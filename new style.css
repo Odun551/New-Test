@@ -1,0 +1,71 @@
+.Container{
+display: flex;
+    align-items: center; 
+    justify-content:center; 
+    height: 100vh; 
+    background-color: aqua;
+     }
+
+.YourResult{
+ padding: 20px; 
+    margin: 2px;
+     background: hsl(241, 81%, 54%)
+    ;
+    color:white;
+height: 350px;
+width: 200px;
+}
+
+
+.check{
+display:flex ;
+padding: 50px; 
+    border-radius: 70%;
+    background-color: rgb(76, 76, 209);
+
+}
+
+
+
+.Summary{
+    padding: 20px; 
+    margin: 2px;
+    background-color: white;
+    height: 350px;
+    width: 200px;
+  }
+
+.four{
+    border: 2px solid;
+    border-radius: 2px;
+    padding-inline: 5px;
+    margin:30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+   
+
+    
