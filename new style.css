@@ -92,30 +92,56 @@ display: flex;
     border-radius: 7px;
     padding-inline: 5px;
     margin:30px;
+    margin-top:-5px;
     margin-left:0px;
     width: 11rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
+
 
 }
 
 .reaction {
     background-color: bisque;
-    color: red;
+    color: hsl(0, 100%, 67%);
+    gap: 5px;
 }
 
 .memory {
     background-color: rgb(219, 194, 162);
-    color: yellow;
+    color: hsl(39, 100%, 56%);
+    gap: 5px;
+
+}
+
+.verbal {
+    background-color: rgb(184, 243, 184);
+    color: hsl(166, 100%, 37%);
+    gap: 5px;
 }
 
 
+.visual {
+    background-color: rgb(95, 159, 243);
+    color: hsl(234, 85%, 45%);
+    gap: 5px;
+}
 
 
+.continue {
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50px;
+    justify-content: center;
+}
 
-
-
-
+.number {
+   
+    margin-left: auto; 
+}
 
 
 
